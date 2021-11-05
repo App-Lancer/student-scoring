@@ -1,0 +1,2 @@
+CSC8404, Advanced Programming, 10
+CSC2222, abcd, 5
